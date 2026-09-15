@@ -1,0 +1,6 @@
+{
+  "name": "Kits Alimentaires - Chaîne WhatsApp",
+  "description": "Rejoignez notre chaîne WhatsApp officielle pour découvrir nos kits alimentaires de fin d'année, offres entreprises et réservations prioritaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
